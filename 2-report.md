@@ -30,7 +30,7 @@
 |66030077| นายธีรพัฒน์ เข็มทิศ |[Link](https://github.com/Jaobie-BN/Project_Servita)|
 |66030158| น.ส.รพีพรรณ ธงชัย |https://github.com/Rapeepan04/project_Sept20.git|
 |66030188| นางสาวสิริรุ่งนภา พลซื่อ | https://github.com/Thesiri04/project_Sept20/tree/Dev-by-Leader |
-
+|66030080| นาย นรเดช ถิรสัตยาภิบาล |https://github.com/Noradech-6080/Project_Servita.git|
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
 ## จบการทดลอง ##
